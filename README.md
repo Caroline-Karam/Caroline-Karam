@@ -7,16 +7,16 @@
 ## 🔧 Technologies I’m working with:
 
 ### Frontend Development:
-- **HTML5 / CSS3**
-- **JavaScript / TypeScript**
-- **Bootstrap / Tailwind CSS**
-- **React JS / Angular**
+- HTML5 / CSS3
+- JavaScript / TypeScript
+- Bootstrap / Tailwind CSS 
+- React JS / Angular
 
 ### Backend Development:
-- **Node JS / Express JS**
+- Node JS / Express JS
 
 ### Databases:
-- **SQL / MongoDB**
+- SQL / MongoDB
 
 🌱 I’m currently learning new tools and technologies to expand my skillset and continuously improve my work.
 
