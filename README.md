@@ -6,10 +6,12 @@
 
 ## 🔧 Technologies I’m working with:
 ### Skills
-
-**Frontend Development:** HTML5, CSS3, JavaScript, TypeScript, Bootstrap, Tailwind CSS, React JS, Angular  
-**Backend Development:** Node.js, Express.js  
-**Databases:** SQL, MongoDB
+| **Frontend Development** | **Backend Development** | **Databases** |
+|---------------------------|-------------------------|---------------|
+| - HTML5 / CSS3            | - Node JS / Express JS  | - SQL         |
+| - JavaScript / TypeScript |                         | - MongoDB     |
+| - Bootstrap / Tailwind CSS|                         |               |
+| - React JS / Angular      |                         |               |
 
 
 ### Frontend Development:
