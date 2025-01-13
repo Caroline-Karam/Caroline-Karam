@@ -80,14 +80,14 @@
 *Apr 2024 – Jun 2024*
 
 - Built a responsive, user-friendly educational platform interface using **React** and **Tailwind CSS**.
-- Developed reusable React components and integrated them with backend APIs, ensuring a seamless experience across devices.
+- Developed reusable React components and integrated them with backend **APIs**, ensuring a seamless experience across devices.
 
 #### **elre7la_be Project** (Backend Developer)  
 *Feb 2024 – Mar 2024*
 
 - Developed the backend architecture for a mobile application using **Node.js**, focusing on creating efficient APIs and endpoints.
 - Designed efficient database schemas using **MongoDB** to store user data, trip details, and transactional information.
-- Optimized API responses and server-side processes for high performance and scalability.
+- Optimized **APIs** responses and server-side processes for high performance and scalability.
 
 ---
 
