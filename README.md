@@ -5,6 +5,12 @@
 - 🌱 I’m currently focused on **Frontend Development**, specializing in **React JS** and **Angular**, and working towards gaining more experience in **Full Stack Development** using **MEAN/MERN**.
 
 ## 🔧 Technologies I’m working with:
+### Skills
+
+**Frontend Development:** HTML5, CSS3, JavaScript, TypeScript, Bootstrap, Tailwind CSS, React JS, Angular  
+**Backend Development:** Node.js, Express.js  
+**Databases:** SQL, MongoDB
+
 
 ### Frontend Development:
 - HTML5 / CSS3
