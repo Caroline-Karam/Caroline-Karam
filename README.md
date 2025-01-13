@@ -6,7 +6,6 @@
 
 ## 🔧 Technologies I’m working with:
 
-### Skills:
 
 | **Frontend Development** | **Backend Development** | **Databases** |
 |---------------------------|-------------------------|---------------|
