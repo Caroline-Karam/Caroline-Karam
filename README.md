@@ -2,10 +2,12 @@
 - 🎓 I graduated in **2023** with a **Bachelor of Information Systems** from **The Egyptian E-Learning University (EELU)** with a **Very Good** grade and an **A+** final project.
 - 🧑‍💻 I have completed the **Full Stack Web Development** program using the **MEAN Stack** at the **Information Technology Institute (ITI)**.
 - 👀 I’m a passionate learner, eager to explore new technologies and leverage them to solve real-world problems.
-- 🌱 I’m currently focused on **Frontend Development**, specializing in **React JS** and **Angular**, and working towards gaining more experience in **Full Stack Development** using **MEAN/MERN**.
+- 🌱 I’m currently focused on **Frontend Development**, specializing in **Angular** and **React JS**, and working towards gaining more experience in **Full Stack Development** using **MEAN/MERN**.
 
 ## 🔧 Technologies I’m working with:
-### Skills
+
+### Skills:
+
 | **Frontend Development** | **Backend Development** | **Databases** |
 |---------------------------|-------------------------|---------------|
 | - HTML5 / CSS3            | - Node JS / Express JS  | - SQL         |
@@ -13,18 +15,6 @@
 | - Bootstrap / Tailwind CSS|                         |               |
 | - React JS / Angular      |                         |               |
 
-
-### Frontend Development:
-- HTML5 / CSS3
-- JavaScript / TypeScript
-- Bootstrap / Tailwind CSS 
-- React JS / Angular
-
-### Backend Development:
-- Node JS / Express JS
-
-### Databases:
-- SQL / MongoDB
 
 🌱 I’m currently learning new tools and technologies to expand my skillset and continuously improve my work.
 
@@ -81,6 +71,12 @@
 - Optimize applications for speed and scalability using modern frontend technologies (HTML5, CSS3, JavaScript, React, Angular).
 
 ### **Freelance Projects:**
+#### ** VCI DB SEARCH Website** (Frontend Developer)  
+*Oct 2024 – present*
+
+- Developed a dynamic and user-friendly database search platform using **Angular 17**, ensuring a seamless and responsive user experience.
+- Implemented **PrimeNG** components for advanced UI functionalities and **TailwindCSS** for modern, visually appealing designs.
+- Integrated **APIs** to fetch and manage database records, providing real-time updates and improved features
 
 #### **Russian University Website** (Frontend Developer)  
 *Apr 2024 – Jun 2024*
@@ -110,17 +106,11 @@ My aim is to expand my knowledge and experience, enhancing my skills in frontend
 ###
 
 <div align="left">
-  <img src="https://www.linkedin.com/in/caroline-karam-4744321b3/" height="35" alt="linkedin logo"  />
-  <img src="carolinekaram2020@gmail.com" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Caroline-Karam/Caroline-Karam/output/snake.svg" alt="Snake animation" />
 
 ###
 
