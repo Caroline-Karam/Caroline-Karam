@@ -90,37 +90,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="firebase logo"  />
 </div>
 
-
-## 🏢 **Work Experience:**
-
-### **Frontend Developer** at **One Marketing Agency**  
-*Sep 2024 – Present*
-
-- Develop and implement responsive, user-friendly web interfaces for client websites, ensuring cross-browser compatibility and optimal performance.
-- Collaborate with designers and backend developers to translate UI/UX designs into functional web applications.
-- Optimize applications for speed and scalability using modern frontend technologies (HTML5, CSS3, JavaScript, React, Angular).
-
-### **Freelance Projects:**
-#### ** Library Search Website** (Frontend Developer)  
-*Oct 2024 – present*
-
-- Developed a dynamic and user-friendly database search platform using **Angular 17**, ensuring a seamless and responsive user experience.
-- Implemented **PrimeNG** components for advanced UI functionalities and **TailwindCSS** for modern, visually appealing designs.
-- Integrated **APIs** to fetch and manage database records, providing real-time updates and improved features
-
-#### **Russian University Website** (Frontend Developer)  
-*Apr 2024 – Jun 2024*
-
-- Built a responsive, user-friendly educational platform interface using **React** and **Tailwind CSS**.
-- Developed reusable React components and integrated them with backend **APIs**, ensuring a seamless experience across devices.
-
-#### **elre7la_be Project** (Backend Developer)  
-*Feb 2024 – Mar 2024*
-
-- Developed the backend architecture for a mobile application using **Node.js**, focusing on creating efficient APIs and endpoints.
-- Designed efficient database schemas using **MongoDB** to store user data, trip details, and transactional information.
-- Optimized **APIs** responses and server-side processes for high performance and scalability.
-
 ---
 
 ## 🚀 **My Goals:**
