@@ -101,7 +101,7 @@
 - Optimize applications for speed and scalability using modern frontend technologies (HTML5, CSS3, JavaScript, React, Angular).
 
 ### **Freelance Projects:**
-#### ** VCI DB SEARCH Website** (Frontend Developer)  
+#### ** Library Search Website** (Frontend Developer)  
 *Oct 2024 – present*
 
 - Developed a dynamic and user-friendly database search platform using **Angular 17**, ensuring a seamless and responsive user experience.
